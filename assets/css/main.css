@@ -4064,3 +4064,16 @@
 		.red{
 			color:#f56a6a;
 		}
+
+		.end{
+			color: green;
+		}
+
+.coursetimespan{
+	margin-bottom: 10px;
+	font-size: 0.8em;
+}
+
+.spansplit{
+	color: #666666;
+}
