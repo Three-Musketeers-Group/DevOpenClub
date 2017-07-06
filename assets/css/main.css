@@ -4077,3 +4077,8 @@
 .spansplit{
 	color: #666666;
 }
+
+.recent_update li{
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
