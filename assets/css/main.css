@@ -4082,3 +4082,11 @@
 	padding-top: 3px;
 	padding-bottom: 3px;
 }
+
+.bdsharebuttonbox{
+	float: right;
+}
+
+.bdsharebuttonbox a{
+	border: none;
+}
