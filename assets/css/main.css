@@ -3808,6 +3808,7 @@
 			color: inherit;
 			font-family: "Roboto Slab", serif;
 			font-size: 1.125em;
+			padding-top: 5px;
 		}
 
 		#header .icons {
@@ -4083,10 +4084,8 @@
 	padding-bottom: 3px;
 }
 
-.bdsharebuttonbox{
+.social-share{
 	float: right;
-}
-
-.bdsharebuttonbox a{
-	border: none;
+	width: 100%;
+	text-align: right;
 }
